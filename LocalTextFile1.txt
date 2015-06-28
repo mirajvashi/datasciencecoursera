@@ -1,1 +1,2 @@
 POC for working locally and pushing the change to Git Server
+SERVER: This line is added directly on server after initial commit from Local to Server
